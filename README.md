@@ -43,6 +43,6 @@ Each task has its own folder with a Jupyter notebook. The fastest way to run the
 
 ## About me
 
-I'm Memcan Kiprono, based in Nairobi, Kenya. Big thanks to the Codveda team for putting this internship together — it pushed me to actually ship things end-to-end instead of just reading tutorials.
+I'm Memucan Kiprono, based in Nairobi, Kenya. Big thanks to the Codveda team for putting this internship together — it pushed me to actually ship things end-to-end instead of just reading tutorials.
 
 #CodvedaJourney #CodvedaExperience #FutureWithCodveda
